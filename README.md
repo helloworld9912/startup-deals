@@ -14,9 +14,9 @@ Interested in link sponsorship? We're open to partnerships! Please reach out to 
 
 ## Payment Processors
 
-| Company | Deal | Conditions |
-| ----------- | ----------- | ----------- |
-| [Stripe](https://stripe.com/startup-benefits/aws-activate) | Waived fees on your next $25,000 in Stripe processed payments | You need to use AWS for your Infra |
+| Company | Deal | Conditions | Link |
+| ----------- | ----------- | ----------- | ----------- |
+| [Stripe](https://stripe.com/startup-benefits/aws-activate) | Waived fees on your next $25,000 in Stripe processed payments | You need to use AWS for your Infra | [Link](https://stripe.com/startup-benefits/aws-activate) |
 
 
 
