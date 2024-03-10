@@ -10,7 +10,8 @@ Explore the Startup Deals repository: a curated selection of discounts and offer
 
 This repository is organized from the most critical and widely-used tools for startup success down to the less essential but still valuable resources, ensuring you prioritize effectively.
 
-Interested in link sponsorship? We're open to partnerships! Please reach out to us at @bap for more informations.
+### Sponsorship
+Interested in link sponsorship? We're open to partnerships! Please reach out to us at @bap for more informations. Sponsored links will be marked with **sponsored** tag.
 
 ### Useful Tip
 
