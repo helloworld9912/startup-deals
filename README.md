@@ -12,6 +12,10 @@ This repository is organized from the most critical and widely-used tools for st
 
 Interested in link sponsorship? We're open to partnerships! Please reach out to us at @bap for more informations.
 
+### Useful Tip
+
+Don't hesitate to reach out directly to any startup tool provider you're interested in, or already paying for. Dropping them an email or initiating a chat to inquire about potential discounts for startups can uncover some of the best unlisted deals! This approach has led to finding exceptional offers that aren't publicly advertised. It's a simple yet effective strategy to stretch your budget further and secure valuable resources for your growing business.
+
 ## Payment Processors
 
 | Company | Deal | Conditions | Link |
