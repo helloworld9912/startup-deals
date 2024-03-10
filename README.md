@@ -6,7 +6,7 @@ Save Big on Your Starup Launch Journey
 Explore the Startup Deals repository: a curated selection of discounts and offers across web hosting, marketing, and design, tailored for startups. Save costs and boost efficiency with our exclusive collection, crafted to help your business succeed.
 
 
-###Boost your startup with exclusive deals! Hit the star button on GitHub to support our community and stay updated on the best savings opportunities.
+## Boost your startup with exclusive deals! Hit the star button on GitHub to support our community and stay updated on the best savings opportunities.
 
 This repository is organized from the most critical and widely-used tools for startup success down to the less essential but still valuable resources, ensuring you prioritize effectively.
 
