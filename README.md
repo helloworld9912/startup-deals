@@ -12,7 +12,7 @@ This repository is organized from the most critical and widely-used tools for st
 
 Interested in link sponsorship? We're open to partnerships! Please reach out to us at @bap for more informations.
 
-#Payment Processors
+## Payment Processors
 
 | Company | Deal | Conditions |
 | ----------- | ----------- | ----------- |
@@ -20,7 +20,7 @@ Interested in link sponsorship? We're open to partnerships! Please reach out to 
 
 
 
-#Curated deals
+## Curated deals
 This list is forked from https://github.com/startupdeals/startupdeals/blob/master/readme.md
 
 | Company | Deal | Conditions |
